@@ -13,6 +13,24 @@
 		CCCF3DFF25767B5700908F74 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CCCF3DFE25767B5700908F74 /* Preview Assets.xcassets */; };
 		CCCF3E0A25767B5700908F74 /* MusikTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E0925767B5700908F74 /* MusikTests.swift */; };
 		CCCF3E1525767B5700908F74 /* MusikUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E1425767B5700908F74 /* MusikUITests.swift */; };
+		CCCF3E2625767B9000908F74 /* Coffee.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CCCF3E2525767B9000908F74 /* Coffee.mp4 */; };
+		CCCF3E2B257686C500908F74 /* zara.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CCCF3E2A257686C500908F74 /* zara.mp4 */; };
+		CCCF3E4E2576920C00908F74 /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E412576920B00908F74 /* UIImage+Extension.swift */; };
+		CCCF3E4F2576920C00908F74 /* Timeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E422576920B00908F74 /* Timeline.swift */; };
+		CCCF3E502576920C00908F74 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E432576920B00908F74 /* Animation.swift */; };
+		CCCF3E512576920C00908F74 /* NSShadow+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E442576920B00908F74 /* NSShadow+Extension.swift */; };
+		CCCF3E522576920C00908F74 /* ShapeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E452576920B00908F74 /* ShapeView.swift */; };
+		CCCF3E532576920C00908F74 /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E462576920B00908F74 /* UIView+Extension.swift */; };
+		CCCF3E542576920C00908F74 /* Sound.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E472576920C00908F74 /* Sound.swift */; };
+		CCCF3E552576920C00908F74 /* CGPath+SVG.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E482576920C00908F74 /* CGPath+SVG.swift */; };
+		CCCF3E562576920C00908F74 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E492576920C00908F74 /* TextView.swift */; };
+		CCCF3E572576920C00908F74 /* CATransaction+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E4A2576920C00908F74 /* CATransaction+Extension.swift */; };
+		CCCF3E582576920C00908F74 /* CAKeyframeAnimation+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E4B2576920C00908F74 /* CAKeyframeAnimation+Extension.swift */; };
+		CCCF3E592576920C00908F74 /* NSMutableParagraphStyle+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E4C2576920C00908F74 /* NSMutableParagraphStyle+Extension.swift */; };
+		CCCF3E5A2576920C00908F74 /* CAMediaTimingFunction+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E4D2576920C00908F74 /* CAMediaTimingFunction+Extension.swift */; };
+		CCCF3E622576927E00908F74 /* TreeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E5F2576927E00908F74 /* TreeModel.swift */; };
+		CCCF3E632576927E00908F74 /* Timeline_Tree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E602576927E00908F74 /* Timeline_Tree.swift */; };
+		CCCF3E642576927E00908F74 /* Tree_View.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCF3E612576927E00908F74 /* Tree_View.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +63,24 @@
 		CCCF3E1025767B5700908F74 /* MusikUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusikUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCCF3E1425767B5700908F74 /* MusikUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusikUITests.swift; sourceTree = "<group>"; };
 		CCCF3E1625767B5700908F74 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CCCF3E2525767B9000908F74 /* Coffee.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Coffee.mp4; sourceTree = "<group>"; };
+		CCCF3E2A257686C500908F74 /* zara.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = zara.mp4; sourceTree = "<group>"; };
+		CCCF3E412576920B00908F74 /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
+		CCCF3E422576920B00908F74 /* Timeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timeline.swift; sourceTree = "<group>"; };
+		CCCF3E432576920B00908F74 /* Animation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
+		CCCF3E442576920B00908F74 /* NSShadow+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSShadow+Extension.swift"; sourceTree = "<group>"; };
+		CCCF3E452576920B00908F74 /* ShapeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShapeView.swift; sourceTree = "<group>"; };
+		CCCF3E462576920B00908F74 /* UIView+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
+		CCCF3E472576920C00908F74 /* Sound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sound.swift; sourceTree = "<group>"; };
+		CCCF3E482576920C00908F74 /* CGPath+SVG.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CGPath+SVG.swift"; sourceTree = "<group>"; };
+		CCCF3E492576920C00908F74 /* TextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
+		CCCF3E4A2576920C00908F74 /* CATransaction+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CATransaction+Extension.swift"; sourceTree = "<group>"; };
+		CCCF3E4B2576920C00908F74 /* CAKeyframeAnimation+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CAKeyframeAnimation+Extension.swift"; sourceTree = "<group>"; };
+		CCCF3E4C2576920C00908F74 /* NSMutableParagraphStyle+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NSMutableParagraphStyle+Extension.swift"; sourceTree = "<group>"; };
+		CCCF3E4D2576920C00908F74 /* CAMediaTimingFunction+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "CAMediaTimingFunction+Extension.swift"; path = "../../../GameOneViewTwo-2-2-2-2-2-main/FlowSettings/Flow_Animation/CAMediaTimingFunction+Extension.swift"; sourceTree = "<group>"; };
+		CCCF3E5F2576927E00908F74 /* TreeModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TreeModel.swift; sourceTree = "<group>"; };
+		CCCF3E602576927E00908F74 /* Timeline_Tree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Timeline_Tree.swift; sourceTree = "<group>"; };
+		CCCF3E612576927E00908F74 /* Tree_View.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tree_View.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +133,10 @@
 			children = (
 				CCCF3DF725767B5600908F74 /* MusikApp.swift */,
 				CCCF3DF925767B5600908F74 /* ContentView.swift */,
+				CCCF3E5E2576926900908F74 /* Model */,
+				CCCF3E2F2576914A00908F74 /* Animatin */,
+				CCCF3E2525767B9000908F74 /* Coffee.mp4 */,
+				CCCF3E2A257686C500908F74 /* zara.mp4 */,
 				CCCF3DFB25767B5700908F74 /* Assets.xcassets */,
 				CCCF3E0025767B5700908F74 /* Info.plist */,
 				CCCF3DFD25767B5700908F74 /* Preview Content */,
@@ -128,6 +168,36 @@
 				CCCF3E1625767B5700908F74 /* Info.plist */,
 			);
 			path = MusikUITests;
+			sourceTree = "<group>";
+		};
+		CCCF3E2F2576914A00908F74 /* Animatin */ = {
+			isa = PBXGroup;
+			children = (
+				CCCF3E432576920B00908F74 /* Animation.swift */,
+				CCCF3E4B2576920C00908F74 /* CAKeyframeAnimation+Extension.swift */,
+				CCCF3E4D2576920C00908F74 /* CAMediaTimingFunction+Extension.swift */,
+				CCCF3E4A2576920C00908F74 /* CATransaction+Extension.swift */,
+				CCCF3E482576920C00908F74 /* CGPath+SVG.swift */,
+				CCCF3E4C2576920C00908F74 /* NSMutableParagraphStyle+Extension.swift */,
+				CCCF3E442576920B00908F74 /* NSShadow+Extension.swift */,
+				CCCF3E452576920B00908F74 /* ShapeView.swift */,
+				CCCF3E472576920C00908F74 /* Sound.swift */,
+				CCCF3E492576920C00908F74 /* TextView.swift */,
+				CCCF3E422576920B00908F74 /* Timeline.swift */,
+				CCCF3E412576920B00908F74 /* UIImage+Extension.swift */,
+				CCCF3E462576920B00908F74 /* UIView+Extension.swift */,
+			);
+			path = Animatin;
+			sourceTree = "<group>";
+		};
+		CCCF3E5E2576926900908F74 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CCCF3E602576927E00908F74 /* Timeline_Tree.swift */,
+				CCCF3E612576927E00908F74 /* Tree_View.swift */,
+				CCCF3E5F2576927E00908F74 /* TreeModel.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,6 +303,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCCF3E2625767B9000908F74 /* Coffee.mp4 in Resources */,
+				CCCF3E2B257686C500908F74 /* zara.mp4 in Resources */,
 				CCCF3DFF25767B5700908F74 /* Preview Assets.xcassets in Resources */,
 				CCCF3DFC25767B5700908F74 /* Assets.xcassets in Resources */,
 			);
@@ -259,8 +331,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CCCF3E4F2576920C00908F74 /* Timeline.swift in Sources */,
+				CCCF3E562576920C00908F74 /* TextView.swift in Sources */,
+				CCCF3E552576920C00908F74 /* CGPath+SVG.swift in Sources */,
+				CCCF3E5A2576920C00908F74 /* CAMediaTimingFunction+Extension.swift in Sources */,
+				CCCF3E642576927E00908F74 /* Tree_View.swift in Sources */,
+				CCCF3E4E2576920C00908F74 /* UIImage+Extension.swift in Sources */,
+				CCCF3E532576920C00908F74 /* UIView+Extension.swift in Sources */,
+				CCCF3E512576920C00908F74 /* NSShadow+Extension.swift in Sources */,
+				CCCF3E572576920C00908F74 /* CATransaction+Extension.swift in Sources */,
+				CCCF3E582576920C00908F74 /* CAKeyframeAnimation+Extension.swift in Sources */,
 				CCCF3DFA25767B5600908F74 /* ContentView.swift in Sources */,
+				CCCF3E502576920C00908F74 /* Animation.swift in Sources */,
+				CCCF3E622576927E00908F74 /* TreeModel.swift in Sources */,
+				CCCF3E592576920C00908F74 /* NSMutableParagraphStyle+Extension.swift in Sources */,
 				CCCF3DF825767B5600908F74 /* MusikApp.swift in Sources */,
+				CCCF3E542576920C00908F74 /* Sound.swift in Sources */,
+				CCCF3E522576920C00908F74 /* ShapeView.swift in Sources */,
+				CCCF3E632576927E00908F74 /* Timeline_Tree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
